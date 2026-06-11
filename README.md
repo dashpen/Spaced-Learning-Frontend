@@ -1,2 +1,2 @@
-# Spaced-Studying-Frontend
-Frontend for Spaced Studying study application
+# Spaced-Learning-Frontend
+Frontend for Spaced Learning study application
